@@ -1,0 +1,31 @@
+.heroImg{
+    padding: 6rem 0 10.5rem;
+    background-color: var(--color-pri);
+}
+
+.mainNavbar{
+    background-color: var(--color-pri);
+    border: 0;
+    margin-bottom: 6rem;
+}
+
+.mainNavbar .navbar-brand{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.mainNavbar .navbar-nav>li>a{
+    color: var(--text-pri);
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    height: 5rem;
+}
+
+.inspiration{
+    margin-top: 7.2rem;
+}
+
+.thumbnail{
+    margin-left: 3rem; 
+}
