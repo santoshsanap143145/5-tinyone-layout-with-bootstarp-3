@@ -1,15 +1,10 @@
-*{
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-}
 
 :root{
 	--color-pri : #fcdb00;
 	--text-pri: #010101;
 	--text-sec : #313841;
 	--text-ter : #555555;
-	/* --text-ter : #898989; */
+	--text-quat : #898989;
 	--color-white : #fff;
 	--color-dark : #000;
 	--color-danger : #ff0000;
@@ -26,4 +21,12 @@ ul{
 
 a:is(:link, :visited){
 	text-decoration: none;
+}
+
+.px-20{
+    padding: 0 2rem;
+}
+
+.mb-9{
+    margin-bottom: 9rem;
 }

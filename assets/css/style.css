@@ -25,7 +25,27 @@
 .inspiration{
     margin-top: 7.2rem;
 }
+.thumbnail {
+    border-radius: 20px;
+    padding: 0;
+    margin: 0;
+    background-color: var(--color-pri);
+    border: none;
+}
 
-.thumbnail{
-    margin-left: 3rem; 
+/* /////////////////////// Features CSS //////////////////// */
+
+.features{
+    padding: 15rem 0 8rem;
+}
+
+.thumbBox{
+    padding: 0 2rem;
+    margin-bottom: 9rem;
+}
+.featuresThumb{
+    margin-bottom: 8.5rem;
+}
+.featuresThumb i{
+    font-size: 4rem;
 }
